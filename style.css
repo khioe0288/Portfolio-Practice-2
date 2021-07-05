@@ -1,0 +1,8 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+#sec_one{
+    background-image: url(pics/Slide1.PNG);
+    background-repeat: no-repeat;
+}
