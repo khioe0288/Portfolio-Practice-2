@@ -54,3 +54,44 @@ body{
     margin-right: 50px;
     margin-bottom: 80px;
 }
+#fin{
+    font-size: 35px;
+    color: firebrick;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#fin-bg{
+    background-image: url(pics/Slide3.PNG);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.fin_div{
+    width: 50%;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}
+.fin_div img{
+    width: 100%;
+}
+#f_div{
+    display: flex;
+    padding: 7%;
+    margin: 20px;
+}
+#puff{
+    text-decoration: none;
+    color: firebrick;
+    font-weight: 900;
+}
+#pf{
+    font-size: large;
+}
+#pfi{
+    font-size: medium;
+}
+footer{
+    text-align: center;
+    background-color: grey;
+}
